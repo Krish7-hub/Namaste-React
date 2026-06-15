@@ -23,3 +23,24 @@ Namaste React
 ## Author
 
 Krish Kumar
+
+# Parcel
+
+- Dev Build
+- Local Server
+- Auto Refresh
+- HMR - Hot Module Replacement
+- File Watching Algorithm - Written in C++.
+- Caching - Faster Builds.  
+- Image Optimization.
+- Minification
+- Bundling
+- Compress File
+- Consistent Hashing
+- Code Splitting 
+- Differential Bundling
+- Diagnostic 
+- Good Error Handling
+- HTTPs
+- Tree Shaking - removed unused code 
+- Different dev and prod bundles
